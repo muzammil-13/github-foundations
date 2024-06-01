@@ -1,4 +1,4 @@
-What is GitHub?
+# What is GitHub?
 
 In this unit, we review the following learning objectives:
 
